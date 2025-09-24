@@ -1,0 +1,622 @@
+NVIDIA delivered Q2 FY26 revenue of $46.7B, up sharply YoY, with data center revenue growing 56% YoY. Gross margin reached 72.7% non-GAAP. Management guided Q3 revenue to $54B (+15.6% QoQ), excluding any China H20 shipments, and reiterated strong demand for Blackwell and upcoming Rubin platforms.
+
+Powered by Yahoo Finance AI
+Operator
+0:00:00
+
+Good afternoon. My name is Sarah, and I will be your conference operator today. At this time, I would like to welcome everyone to NVIDIA's Second Quarter Fiscal twenty twenty six Financial Results Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question and answer session. You. Toshiya Hari, you may begin your conference.
+
+Toshiya Hari
+VP - IR & Strategic Finance
+0:00:37
+
+Thank you. Good afternoon, everyone, and welcome to NVIDIA's conference call for the 2026. With me today from NVIDIA are Jensen Huang, president and chief executive officer, and Colette Kress, executive vice president and chief financial officer. I'd like to remind you that our call is being webcast live on NVIDIA's Investor Relations website. The webcast will be available for replay until the conference call to discuss our financial results for the 2026.
+
+Toshiya Hari
+VP - IR & Strategic Finance
+0:01:08
+
+The content of today's call is NVIDIA's property. It can't be reproduced or transcribed without our prior written consent. During this call, we may make forward looking statements based on current expectations. These are subject to a number of significant risks and uncertainties, and our actual results may differ materially. For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent forms 10 k and 10 Q, and the reports that we may file on Form eight ks with the Securities and Exchange Commission.
+
+Toshiya Hari
+VP - IR & Strategic Finance
+0:01:43
+
+All our statements are made as of today, 08/27/2025, based on information currently available to us. Except as required by law, we assume no obligation to update any such statements. During this call, we will discuss non GAAP financial measures. You can find a reconciliation of these non GAAP financial measures to GAAP financial measures in our CFO commentary, which is posted on our website. With that, let me turn the call over to Colette.
+
+Colette Kress
+EVP & CFO
+0:02:11
+
+Thank you, Toshiya. We delivered another record quarter while navigating what continues to be a dynamic external environment. Total revenue was 46,700,000,000.0, exceeded our outlook as we grew sequentially across all market platforms. Data center revenue grew 56% year over year. Data center revenue also grew sequentially despite the 4,000,000,000 decline in h '20 revenue.
+
+Colette Kress
+EVP & CFO
+0:02:41
+
+NVIDIA's Blackwell platform reached record levels, growing sequentially by 17%. We began production shipments of GB 300 in q two. Our full stack AI solutions for cloud service providers, neo clouds, enterprises, and sovereigns are all contributing to our growth. We are at the beginning of an industrial revolution that will transform every industry. We see 3 to $4,000,000,000,000 in AI infrastructure spend in the by the end of the decade.
+
+Colette Kress
+EVP & CFO
+0:03:19
+
+The scale and scope of these build outs present significant long term growth opportunities for NVIDIA. The g b 200 NBL system is seeing widespread adoption with deployments at CSPs and consumer Internet companies, Lighthouse model builders, including OpenAI, Meta, and Mastral are using the g b 200 NBL 72 at data center scale for both training next generation models and serving inference models in production. The new Blackwell Ultra platform has also had a strong quarter, generating tens of billions in revenue. The transition to the g b 300 has been seamless for major cloud service providers due to its shared architecture, software, and physical footprint with the g b 200, enabling them to build and deploy g b 300 racks with ease. The transition to the new g b 300 rack based architecture has been seamless.
+
+Colette Kress
+EVP & CFO
+0:04:23
+
+Factory builds in late July and early August were successfully converted to support the g b 300 ramp. And today, full production is underway. The current run rate is back at full speed, producing approximately 1,000 racks per week. This output is expected to accelerate even further throughout the third quarter as additional capacity comes online. We expect widespread market availability in the second half of the year as CoreWeave prepares to bring their g v 300 instance to market as they are already seeing 10x more inference performance on reasoning models compared to h 100.
+
+Colette Kress
+EVP & CFO
+0:05:07
+
+Compared to the previous hopper generation, g v 300 and d l 72 AI factories promise a 10 x improvement in token per watt energy efficiency, which translates to revenues as data centers are power limited. The chips of the Rubin platform are in fab. The Vera CPU, Rubin GPU, c x nine Super NIC, NVLink one forty four scale up switch, Spectrum X scale out and scale across switch, and the silicon photonics processor. Rubin remains on schedule for volume production next year. Rubin will be our third generation NVLink RackScale AI supercomputer with a mature and full scale supply chain.
+
+Colette Kress
+EVP & CFO
+0:05:59
+
+This keeps us on track with our pace of an annual product cadence and continuous innovation across compute, networking, systems, and software. In late July, the US government began reviewing licenses for sales of h 20 to China customers. While a select number of our China based customers have received licenses over the past few weeks, we have not shipped any h 20 based on those licenses. USG officials have expressed an expectation that the USG will receive 15% of the revenue generated from licensed h 20 sales. But to date, the USG has not published a regulation codifying such requirement.
+
+Colette Kress
+EVP & CFO
+0:06:51
+
+We have not included h 20 in our q three outlook as we continue to work through geopolitical issues. If geopolitical issues reside, we should ship $2,000,000,000 to $5,000,000,000 in h twenty revenue in q three. And if we add more orders, we can bill more. We continue to advocate for the US government to approve Blackwell for China. Our products are designed and sold for beneficial commercial use, and every license sale we make will benefit The US economy, The US leadership.
+
+Colette Kress
+EVP & CFO
+0:07:26
+
+In highly competitive markets, we want to win the support of every developer. America's AI technology stack can be the world's standard if we race and compete globally. Notably in the quarter was an increase in hopper January and h 200 shipments. We also sold approximately 650,000,000 of h 20 in q two to an unrestricted customer outside of China. The sequential increase in Hopper demand indicates the breadth of data center workloads that run on accelerated computing and the power of CUDA libraries and full stack optimizations, which continuously enhance the performance and economic value of platform.
+
+Colette Kress
+EVP & CFO
+0:08:12
+
+As we continue to deliver both Hopper and Blackwell GPUs, we are focusing on meeting the soaring global demand. This growth is fueled by capital expenditures from the cloud to enterprises, which are on track to invest 600,000,000,000 in data center infrastructure and compute this calendar year alone, nearly doubling in two years. We expect annual AI infrastructure investments to continue growing driven by the several factors, reasoning agentic AI requiring orders of magnitude more training and inference compute, global build outs for sovereign AI, enterprise AI adoption, and the arrival of physical AI and robotics. Blackwell has set the benchmark as it is the new standard for AI inference performance. The market for AI inference is expanding rapidly with reasoning and agentic AI gaining traction across industries.
+
+Colette Kress
+EVP & CFO
+0:09:18
+
+Blackwell's RackScale NVLink and CUDA full stack architecture addresses this by redefining the economics of inference. New NV f p four four bit precision and NVLink 72 on the g b 300 platform delivers a 50 x increase in energy efficiency per token compared to Hopper, enabling companies to monetize their compute at unprecedented scale. For instance, a 3,000,000 investment in g v 200 infrastructure can generate 30,000,000 in token revenue, a 10 x return. NVIDIA software innovation, combined with the strength of our developer ecosystem, has already improved Blackwell's performance by more than two x since its launch. Advances in CUDA, TensorRT LLM, and Dynamo are unlocking maximum efficiency.
+
+Colette Kress
+EVP & CFO
+0:10:16
+
+CUDA library contributions from the open source community along with NVIDIA's open libraries and frameworks are now integrated into millions of workflows. This plow this powerful flywheel of collaborative innovation between NVIDIA and global community contribution strengthens NVIDIA's performance leadership. NVIDIA is a top contributor to OpenAI models, data, and software. Blackwell has introduced a groundbreaking numerical approach to large language model pretraining Using NV f p four, computations on the g b 300 can now achieve seven x faster training than the h 100, which uses f p eight. This innovation delivers the accuracy of 16 bit precision with the speed and efficiency of four bit, setting a new standard for AI factor efficiency and scalability.
+
+Colette Kress
+EVP & CFO
+0:11:20
+
+The AI industry is quickly adopting this revolutionary technology with major players such as AWS, Google Cloud, Microsoft Azure, and OpenAI, as well as Cohere, Mistral, Kimi AI, Perplexity, Reflection, and Runway, already embracing it. NVIDIA's performance leadership was further validated in the latest ML Perth training benchmarks where the g b 200 delivered a clean sweep. Be on the lookout for the upcoming m MLPerf inference results in September, which will include benchmarks based on the Blackwell Ultra. NVIDIA RTX Pro servers are in full production for the world system makers. These are air cooled PCIe based systems integrated seamlessly into standard IT environments and run traditional enterprise IT applications as well as the most advanced agentic and physical AI applications.
+
+Colette Kress
+EVP & CFO
+0:12:27
+
+Nearly 90 companies, including many global leaders, are already adopting RTX Pro servers. Hitachi uses them for real time simulation and digital twins, Lilly for drug discovery, Hyundai for factory design and AV validation, and Disney for immersive storytelling. As enterprises modernize data centers, RTX Pro servers are poised to become a multibillion dollar product line. Sovereign AI is one on the rise as the nation's ability to develop its own AI using domestic infrastructure data and talent presents a significant opportunity for NVIDIA. NVIDIA is at the forefront of landmark initiatives across The UK and Europe.
+
+Colette Kress
+EVP & CFO
+0:13:15
+
+The European Union plans to invest €20,000,000,000 to establish 20 AI factories across France, Germany, Italy, and Spain, including five gigafactories to increase its AI compute infrastructure by tenfold. In The UK, the is Umbard AI supercomputer powered by NVIDIA was unveiled at the country's most powerful AI system, delivering 21 exaflots of AI performance to accelerate breakthroughs in fields of drug discovery and climate modeling. We are on track to achieve over 20,000,000,000 in sovereign AI revenue this year, more than double than that of last year. Networking delivered record revenue of 7,300,000,000.0, and escalating demands of AI compute clusters necessitate high efficiency and low latency networking. This represents a 46% sequential and 98% year on year increase with strong demand across Spectrum X Ethernet, InfiniBand, and NVLink.
+
+Colette Kress
+EVP & CFO
+0:14:30
+
+Our Spectrum X enhanced Ethernet solutions provide the highest throughput and lowest latency network for Ethernet AI workloads. Spectrum X Ethernet delivered double digit sequential and year over year growth with annualized revenue exceeding 10,000,000,000. At Hotchips, we introduced Spectrum XGS Ethernet, a technology designed to unify disparate data centers into gigascale AI super factories. Corweave is an initial adopter of the solution, which is project projected to double GPU to GPU communication speed. InfiniBand revenue nearly doubled sequentially, fueled by the adoption of XDR technology, which provides double the bandwidth improvement over its predecessor, especially valuable for the model builders.
+
+Colette Kress
+EVP & CFO
+0:15:28
+
+The world's fastest switch, NVLink, with 14 x the bandwidth of PCIe Gen five delivered strong growth as customers deployed Brace Blackwell NVLink Rack Scale systems. The positive reception to NVLink Fusion, which allows semi custom AI infrastructure, has been widespread. Japan's upcoming Fugaku Next will integrate Fujitsu's CPUs with our architecture via NVLink Fusion. It will run a range of workloads, including AI, supercomputing, and quantum computing. Fugaku next joins a rapidly expanding list of leading quantum supercomputing and research centers running on NVIDIA's CUDA Q quantum platform, including ULEC, AIST, NNF, and NERSC, supported by over 300 ecosystem partners, including AWS, Google Quantum AI, Quantinuum, QEra, and SciQuantum.
+
+Colette Kress
+EVP & CFO
+0:16:42
+
+Just in THOR, our new robotics computing platform is now available. THOR delivers an order of magnitude greater AI performance and energy efficiency than NVIDIA AGX Orin. It runs the latest generative and reasoning AI models at the edge in real time, enabling state of the art robotics. Adoption of NVIDIA's robotics full stack platform is growing at rapid rate. Over 2,000,000 developers and 1,000 plus hardware software applications and sensor partners taking our platform to market.
+
+Colette Kress
+EVP & CFO
+0:17:17
+
+Leading enterprises across industries have adopted Thor, including Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic, and Meta. Robotic applications require exponentially more compute on the device and in infrastructure representing a significant long term demand driver for our data center platform. NVIDIA Omniverse with Cosmos is our data center physical AI digital twin platform built for development of robot and robotic systems. This quarter, we announced a major expansion of our partnership with Siemens to enable AI automatic factories, leading European robotics companies, including Agile Robots, Neurorobotics, and Universal Robots, are building their latest innovations with the Omniverse platform. Transitioning to a quick summary of our revenue by geography.
+
+Colette Kress
+EVP & CFO
+0:18:19
+
+China declined on a sequential basis to low single digits percentage of data center revenue. Note, our q three outlook does not include h 20 shipments to China customers. Singapore revenue represented 22% of second quarter's billed revenue as customers have centralized their invoicing in Singapore. Over 99% of data center compute revenue billed to Singapore was for US based customers. Our gaming revenue was a record 4,300,000,000.0, a 14% sequential increase and a 49% jump year on year.
+
+Colette Kress
+EVP & CFO
+0:18:58
+
+This was driven by the ramp of Blackwell GeForce GPUs as strong sales continued as we increased supply availability. This quarter, we shipped GeForce RTX fifty sixty desktop GPU. It brings double the performance along with advanced ray tracing, neural rendering, and AI powered DLSS four gameplay to millions of gamers worldwide. Blackwell is coming to GeForce NOW in September. This is GeForce NOW's most significant upgrade, offering RTX fifty eighty class performance, minimal latency, and five k resolution at 120 frames per second.
+
+Colette Kress
+EVP & CFO
+0:19:40
+
+We are also doubling the GeForce NOW catalog to over 4,500 titles, the largest library of any cloud gaming service. For AI enthusiasts, on device AI performs the best RTX GPUs. We partnered with OpenAI to optimize their open source GPT models for high quality, fast, and efficient inference on millions of RTX enabled window devices. With the RTX platform stack, Window developers can create AI applications designed to run on the world's largest AI PC user base. Professional visualization revenue reached 601,000,000, a 32% year on year increase.
+
+Colette Kress
+EVP & CFO
+0:20:25
+
+Growth was driven by an adoption of the high end RTX workstation GPUs and AI powered workload like design, simulation, and prototyping. Key customers are leveraging our solutions to accelerate their operations. Activision Blizzard uses RTX workstations to enhance creative workflows, while robotics innovator Figure AI powers its humanoid robots with RTX embedded GPUs. Automotive revenue, which includes only in car compute revenue, was 586,000,000, up 69% year on year, primarily driven by self driving solutions. We have begun shipments of NVIDIA Thor SoC, the successor to Orin.
+
+Colette Kress
+EVP & CFO
+0:21:11
+
+Thor's arrival coincides with the industry's accelerating shift to vision, language, model architecture, generative AI, and higher levels of autonomy. Thor is the most successful robotics and AV computer we've ever created. Thor willpower. Our full stack drive AV software platform is now in production, opening up billions to new revenue opportunities for NVIDIA while improving vehicle safety and autonomy. Now moving to the rest of our p and l.
+
+Colette Kress
+EVP & CFO
+0:21:46
+
+GAAP gross margin was 72.4%, and non GAAP gross margin was 72.7%. These figures include a 180,000,000 or 40 basis point benefit from relief releasing previously reserved h 20 inventory. Excluding this benefit, non GAAP gross margins would have been 72.3%, still exceeding our outlook. GAAP operating expenses rose eight percent and six percent on a non GAAP basis sequentially. This increase was driven by higher compute and infrastructure costs as well as higher compensation and benefit costs.
+
+Colette Kress
+EVP & CFO
+0:22:26
+
+To support the ramp of Blackwell and Blackwell Ultra, inventory increased sequentially from 11,000,000,000 to 15,000,000,000 in q two. While we prioritize funding our growth and strategic initiatives, in q two, we returned 10,000,000,000 to shareholders through share repurchases and cash dividends. Our board of directors recently approved a 60,000,000,000 share repurchase authorization to add to our remaining 14,700,000,000.0 of authorization at the end of q two. Okay. Let me turn it to the outlook for the third quarter.
+
+Colette Kress
+EVP & CFO
+0:23:04
+
+Total revenue is expected to be $54,000,000,000 plus or minus 2%. This represents over $7,000,000,000 in sequential growth. Again, we do not assume any h 20 shipments to China customers in our outlook. GAAP and non GAAP gross margins are expected to be 73.3%, 73.5%, respectively, plus or minus 50 basis points. We continue to expect to exit the year with non GAAP gross margins in the mid seventies.
+
+Colette Kress
+EVP & CFO
+0:23:37
+
+GAAP and non GAAP operating expenses are expected to be approximately 5,900,000,000.0 and 4,200,000,000.0, respectively. For the full year, we expect operating expenses to grow in the high thirties range year over year, up from our prior expectations of the mid thirties. We are accelerating investments in the business to address the magnitude of growth opportunities that lie ahead. GAAP and non GAAP other income and expenses are expected to be an income of approximately 500,000,000, excluding gains and losses from nonmarketable and public held equity securities. GAAP and non GAAP tax rates are expected to be 16.5, plus or minus 1%, excluding any discrete items.
+
+Colette Kress
+EVP & CFO
+0:24:23
+
+Further financial data are included in the CFO commentary and other information available on our website. In closing, let me highlight upcoming events for the financial community. We will be at the Goldman Sachs Technology Conference on September 8 in San Francisco. Our annual NDR will commence the October. GTC data center begins on October 27 with Jensen's keynote scheduled for the twenty eighth.
+
+Colette Kress
+EVP & CFO
+0:24:50
+
+We look forward to seeing you at these events. Our earnings call to discuss the results of our 2026 is scheduled for November 19. We will now open the call for questions. Operator, would you please poll for questions?
+
+Operator
+0:25:11
+
+Thank you. Your first question comes from C. J. Muse with Cantor Fitzgerald. Your line is open.
+
+CJ Muse
+Senior Managing Director
+0:25:34
+
+Yes, good afternoon. Thank you for taking the question.
+
+CJ Muse
+Senior Managing Director
+0:25:37
+
+I guess with wafer in to rack out lead times of twelve months, you confirmed on the call today that Rubin is on track for ramp in the second half. And obviously, many of these investments are multiyear projects contingent upon power, cooling, etcetera. I was hoping perhaps you could you take a high level view and speak to, you know, your vision for growth in into 2026. And as part of that, if you could kinda comment between network and data center would be very helpful. Thank you.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:26:06
+
+Yeah. Thanks, CJ. At the highest level of growth drivers would be the evolution, the the introduction, if you will, of reasoning agentic AI. You know, where chatbots used to be one shot, you give it a prompt, and it would generate the answer. Now the AI does research.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:26:33
+
+It thinks and does a plan, and it might use tools. And so it's called long thinking, and the longer it thinks, oftentimes, it produces better answers. And the amount of computation necessary for one shot versus reasoning agentic AI models could be a 100 times, a thousand times, and potentially even more as the amount of research and basically reading and comprehension that it goes off to do. And so the amount of computation that has that has resulted in AgenTic AI has grown tremendously. And, of course, the effectiveness has also grown tremendously.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:27:16
+
+Because of Agentic AI, the amount of hallucination has dropped significantly. You can now use it you can now use tools and perform tasks. Enterprises have been opened up. As a result of agentic AI and vision language models, we now are seeing a breakthrough in physical AI, in robotics, autonomous systems. So the the last year, AI has made tremendous progress, and agentic systems, reasoning systems, is completely revolutionary.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:27:47
+
+Now we built the Blackwell MVLink 72 system, a rack scale computing system, for this moment. We've been working on it for several years. This last year, we transitioned from MVLink eight, which is a node scale computing, each node is a computer, to now NVLink 72 where each rack is a computer. That disaggregation of NVLink 72 into a rack scale system was extremely hard to do, but the results are extraordinary. We're seeing orders of magnitude speed up and, therefore, energy efficiency and, therefore, cost effectiveness of token generation because of NVLink 72.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:28:33
+
+And so over the next over the next couple of years, you're gonna over well, you asked about longer term. Over the next five years, we're gonna scale into with Blackwell, with Rubin, and follow ons to scale into effectively a 3 to $4,000,000,000,000 AI infrastructure opportunity. The last couple of years, you have seen that CapEx has grown in just the top four CSPs by has doubled and grown to about $600,000,000,000. So we're in the beginning of this build out, and the AI technology advances has really enabled AI to be able to adopt and solve problems to many different industries.
+
+Operator
+0:29:25
+
+Your next question comes from Vivek Arya with Bank of America Securities. Your line is open.
+
+Vivek Arya
+Managing Director
+0:29:33
+
+Thanks for taking my questions. Colette, just wanted to clarify the 2,000,000,000 to $5,000,000,000 in China. What needs to happen? And what is the sustainable pace of that China business as you get into Q4? And then Jensen, for you on the competitive landscape, several of your large customers already have or are planning many ASIC projects.
+
+Vivek Arya
+Managing Director
+0:29:53
+
+I think one of your ASIC competitors Broadcom signaled that they could grow their AI business almost 55%, 60% next year. Any scenario in which you see the market moving more towards ASICs and away from NVIDIA GPU? Just what are you hearing from your customers? How are they managing this split between their use of merchant silicon and ASICs? Thank you.
+
+Colette Kress
+EVP & CFO
+0:30:17
+
+Thanks, Vivek. So let me first answer your question regarding what will it take for the h twenties to be shipped. There is interest in our h twenties. There is the initial set of licenses that we received. And then, additionally, we do have supply that we are ready, and that's why we communicated that somewhere in the range of about 2 to 5,000,000,000 this quarter, we could potentially ship.
+
+Colette Kress
+EVP & CFO
+0:30:45
+
+We're still waiting on several of the geopolitical issues going back and forth between the governments and the companies trying to determine their purchases and what they want to do. So it's still, open at this time, and we're not exactly sure what that full amount will be about this quarter. However, if more interest arrives, more licenses arrives, again, we can also still build additional h 20 and ship more as well.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:31:17
+
+NVIDIA builds very different things than ASICs, let's talk about ASICs first. A lot of projects are started. Many startup companies are created. Very few products go into production, and the reason for that is it's really hard. Accelerated computing is unlike general purpose computing.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:31:36
+
+You don't write software and just compile it into a processor. Accelerated computing is a full stack co design problem. And AI factories, in the last several years, has become so much more complex because of the scale of the problems have grown so significantly. It is it is really the ultimate the most extreme computer science problem the world's ever seen, obviously. And so the stack is complicated.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:32:04
+
+The models are changing incredibly fast from generative based on autoregressive to generative based on diffusion to mixed models to multimodality, the number of different models that are coming out that are either derivatives of transformers or evolutions of transformers is just daunting. One of the advantages that we have is that NVIDIA's available in every cloud. We're available from every computer company. We're available from the cloud to on prem to edge to robotics on the same programming model. And so it's sensible that every framework in the in the world supports NVIDIA.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:32:49
+
+When you're building a new model architecture, releasing it on NVIDIA is most sensible. And so the diversity of our platform, both in the ability to evolve into any architecture, the fact that we're everywhere, and, also, we accelerate the entire pipeline. You know, everything from data processing to pretraining to post training with reinforcement learning, all the way out to inference. And so when you build a data center with NVIDIA platform in it, the utility of it is best. The life lifetime usefulness is much, much longer.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:33:28
+
+And then I I would just say that that, in addition to all of that, it is just a a really extremely complex systems problem anymore. You know, people talk about the chip itself. There's one ASIC, the GPU that that many people talk about. But in order to build Blackwell, the platform, and Rubin, the platform, we had to build CPUs that connect fast memory, low low extremely energy efficient memory for large KB caching necessary for AgenTic AI to the GPU to a super NIC to a scale up switch we call NVLink, completely revolutionary when we're in our fifth generation now, to a scale out switch, whether it's quantum or spectrum x Ethernet, to now scale across switches so that we could prepare for these AI super factories with multiple gigawatts of computing all connected together. We call that Spectrum XGS.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:34:37
+
+We just announced that at Hotchips this week. And so the complications, the complexity of everything that we do is really quite extraordinary. It's just done in a in a really, really extreme scale now. And then lastly, if I could just say one more thing. You know, we're in every cloud for a good reason.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:34:58
+
+Not only do are we the most energy efficient, our perf per watt is the best of any computing platform. And in a world of power limited data centers, perf per watt drives directly to revenues. And, you know, you've heard me say before that in a lot of ways, the more you buy, the more you grow. And because our perf per dollar, the performance per dollar is so incredible, you also have extremely great margins. So the the growth opportunity with NVIDIA's architecture and the gross margins opportunity with NVIDIA's architecture is absolutely the best.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:35:40
+
+And so there's a lot of reasons why NVIDIA's chosen by every cloud and every startup and every computer company. We're, you know, really a holistic full stack solution for AI factories.
+
+Operator
+0:35:58
+
+Your next question comes from Ben Reitzes with Melius. Your line is open.
+
+Ben Reitzes
+MD & Head - Technology Research
+0:36:07
+
+Jensen, I wanted to ask you about your 3,000,000,000,000 to $4,000,000,000,000 in data center infrastructure spend by the end of the decade. Previously, you talked about something in the $1,000,000,000 range, which I believe was just for compute by 2028. If you take past comments, 3,000,000,000,000 to $4,000,000,000,000 would imply maybe $2,000,000,000 plus in compute spend. And just wanted to know if that was right and that's what you're seeing by the end of the decade. And wondering what you think your share will be of that.
+
+Ben Reitzes
+MD & Head - Technology Research
+0:36:37
+
+Your share right now of total infrastructure compute wise is very high. So wanted to see. And also if there's any bottlenecks you're concerned about like power to get to the 3 to 4,000,000,000,000. Thanks a lot.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:36:52
+
+Yeah. Thanks. As you know, the CapEx of just the top four hyperscalers has doubled in two years. As the AI revolution went into full steam, as the AI race is now on, the CapEx spend has doubled to $600,000,000,000 per year. There's five years between now and the end of the decade, and six hundred billion dollars, only represents the top four hyperscalers.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:37:27
+
+We still have the rest of the enterprise companies building on prem. You have enter you have cloud service providers building around the world. United States represents about 60% of the world's compute. And and over time, you would think that artificial intelligence would reflect GDP scale and growth, and so and would be would be, of course, accelerating GDP growth. And so so our our contribution to that is a large part of the AI infrastructure.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:38:05
+
+Out of out of a gigawatt AI factory, which can go anywhere from 50 to, you know, plus or minus 10%, let's say, to 60,000,000,000, we represent about 35 plus or minus of that. And 35 out of fifty fifty or so, billion dollars for a gigawatt data center. And there and, of course, what you get for that is not a GPU. I think people, you know, were famous for building the GPU and inventing the GPU. But as you know, over the last decade, we've really transitioned to become an AI infrastructure company.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:38:46
+
+It takes six chips just to build six different types of chips just to build an a AI an a Rubin AI supercomputer. And just to scale that out, you know, to a gigawatt, you have hundreds of thousands of of GPU compute nodes and whole bunch of racks. And so we're really we're really an AI infrastructure company, and we're we're hoping to continue to contribute to growing this industry, making AI more useful, and then very importantly, driving the performance per watt because the world, as you mentioned, limiters, it will always likely be power limitations or AI infrastructure or AI building limitations. And so we need to squeeze as much out of that factory as possible. NVIDIA's performance per unit of energy used drives the revenue growth of that factory.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:39:50
+
+It directly translates. If you have a 100 megawatt factory, perf per 100 megawatt drives your revenues. It's tokens per 100 megawatts of factory. In our case, also, the performance per dollar spent is so high that your gross margins are also the best. But anyhow, these are these are the the limiters going forward, and and 3 to $4,000,000,000,000 is fairly sensible for the next five years.
+
+Operator
+0:40:26
+
+Next question comes from Joe Moore of Morgan Stanley. Your line is open.
+
+Joseph Moore
+Managing Director
+0:40:33
+
+Great. Thank you. Congratulations on reopening the China opportunity. Can you talk about the long term prospects there? You've talked about, I think half of AI software world being there.
+
+Joseph Moore
+Managing Director
+0:40:45
+
+You know, how much can NVIDIA grow in that business, and, you know, how important is it that you get the Blackbaud architecture ultimately licensed there?
+
+Jensen Huang
+Founder, President, CEO & Director
+0:40:56
+
+The China market, I've estimated to be about $50,000,000,000 of opportunity for us this year. If we were able to address it with competitive products and and if it's $50,000,000,000 this year, you would expect it to grow, say, 50% per year as as the rest of the world's AI AI market is growing as well. It is the second largest computing market in the world, and it is also the home of AI researchers. About 50% of the world's AI researchers are in China. The vast majority of the leading open source models are created in China, and so it's fairly important, I think, for the American technology companies to be able to address that market.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:41:52
+
+And open source, as you know, is created in one country, but it's used all over the world. The open source models that have come out of China are really excellent. DeepSeek, of course, gained global notoriety. Q1 is excellent. Kimi is excellent.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:42:10
+
+There's a there's a whole bunch of new models that are coming out. They're multimodal. They're link great language models, and it and it's it's really fueled the adoption of AI in enterprises around the world because enterprises wanna build their own custom proprietary software software stacks. And so open open source model is really important for enterprise. It's really important for SaaS who also would like to build proprietary systems.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:42:39
+
+It has been really incredible for robotics around the world. And so open source is really important, and it's important that the American companies are able to address it. This is it's gonna be a very large market. We're talking to we're talking to, the administration about the importance of American companies to be able to address, the Chinese market. And, as you know, h 20 has been approved, for companies that are not on the entities list, and many licenses have been approved.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:43:15
+
+And, so I think the, you know, the the opportunity for us to bring Blackwell to the China market is a real possibility. And so we just have to keep advocating the the sensibility of and the importance of American tech companies to be able to to lead and win the AI race and help make the American tech stack the global standard.
+
+Operator
+0:43:48
+
+Your next question comes from the line of Aaron Rakers with Wells Fargo. Your line is open.
+
+Aaron Rakers
+Managing Director & Technology Analyst
+0:43:56
+
+Yeah. Thank you for the question. I want to go back to the Spectrum XGS announcement this week. And thinking about the Ethernet product now pushing over $10,000,000,000 of annualized revenue, just what is the opportunity set that you see for Spectrum XGS? So do we think about this as kind of the the data center interconnect layer?
+
+Aaron Rakers
+Managing Director & Technology Analyst
+0:44:18
+
+Any thoughts on the sizing of this opportunity, you know, within that Ethernet portfolio? Thank you.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:44:26
+
+We now offer three networking technologies. One is for scale up, one is for scale out, and one for scale across. Scale up is so that we could build the largest possible virtual GPU, the virtual compute node. NVLink is revolutionary. NVLink 72 is what made it possible for Blackwell to deliver such an extraordinary generational jump over Hopper's NVLink eight.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:44:58
+
+At a time when when we have long thinking thinking models, agentic AI reasoning systems, the NVLink basically amplifies the, memory bandwidth, which is really critical for, for reasoning systems. And so NVLink 72 is fantastic. We then scale out with networking, which we have two. We have InfiniBand, which is unquestionably the lowest latency, the lowest jitter, the best scale out network. It does require more expertise in managing those networks.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:45:37
+
+And, for supercomputing, for the leading model makers, InfiniBand quantum InfiniBand is the unambiguous choice. If you were to benchmark an AI factory, the ones with InfiniBand are the best performance. For those who would like to use Ethernet because their their whole data center is built with Ethernet, we have a new type of Ethernet called Spectrum Ethernet. Spectrum Ethernet is not off the shelf. It has a whole bunch of new technologies designed for low latency and low jitter and congestion control, and and it has the ability, to, come closer, much, much closer, to InfiniBand than anything that's out there.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:46:19
+
+And that's we call that Spectrum x Ethernet. And then finally, we have Spectrum xGS, a gigascale for connecting multiple data centers, multiple AI factories into a super factory, a gigantic system. And we're gonna you're gonna see that networking obviously is very important in AI factories. In fact, choosing the right networking, the performance, the throughput improvement going from, you know, 65% to 85% or 90%, that kind of that kind of step up because of their your networking capability effectively makes networking free. You know?
+
+Jensen Huang
+Founder, President, CEO & Director
+0:47:09
+
+Choosing the right networking, you're basically paying you know, you're, you'll get a return on it like you can't believe because the AI factory, a gigawatt, as I mentioned before, could be $50,000,000,000. And so the ability to improve the efficiency of that factory by tens of percent is results in $1,020,000,000,000 dollars worth of effective benefit. And so, you know, this the the networking is a very important part of it. It's the reason why NVIDIA dedicates so much in networking. It's the reason why we purchased Mellanox five and a half years ago.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:47:48
+
+And Spectrum X, as we mentioned earlier, is now quite a quite a sizable business, and it's only about a year and a half old. So x Spectrum X is a home run. All all three of them are gonna be fantastic. NVLink, scale up Spectrum X and InfiniBand, scale out, and then Spectrum XGS for scale across.
+
+Operator
+0:48:15
+
+Your next question comes from Stacy Raskin with Bernstein Research. Your line is open.
+
+Stacy Rasgon
+MD & Senior Analyst
+0:48:23
+
+Hi, guys. Thanks for taking my question. I have a more tactical question for Colette. So on the guide, you're up over $7,000,000,000 The vast bulk of that is going to be from data center. How do I think about apportioning that $7,000,000,000 out across Blackwell versus Hopper versus networking?
+
+Stacy Rasgon
+MD & Senior Analyst
+0:48:42
+
+I mean it looks like Blackwell was probably $27,000,000,000 in the quarter, up from maybe 23,000,000,000 last quarter. Hopper is still 6,000,000,000 or $7,000,000,000 post the H20. Like do you think the Hopper strength continues? Just how do I think about parsing that $7,000,000,000 out across all the the three those three different components?
+
+Colette Kress
+EVP & CFO
+0:49:01
+
+Thanks, Stacy, for the question. First part of it, looking at our growth between q two and q three, Blackwell is still going to be, the lion's share, of what we have in terms of data center. But keep in mind, that helps both our compute side as well as it helps our networking side because we are selling those significant systems, that are incorporating the NVLink that Jensen, just spoke about. Selling Hopper, we are still selling it. H 100, h two hundreds, we are.
+
+Colette Kress
+EVP & CFO
+0:49:36
+
+But, again, they are HCX systems, and I still believe our Blackwell will be the lion's share of what we're doing on there. So we'll continue. We don't have any more specific details in terms of how we'll finish our quarter, but you should expect Blackwell again to be the driver of the growth.
+
+Operator
+0:50:00
+
+Your next question comes from Jim Schneider of Goldman Sachs. Your line is open.
+
+Jim Schneider
+Senior Equity Analyst
+0:50:08
+
+Good afternoon. Thanks for taking my question. You've been very clear about the reasoning model opportunity that you see and you've also been relatively clear about the technical specs for Rubin. But maybe you could provide a little bit of context about how you view the Rubin product transition going forward? What incremental capability does that offer to customers?
+
+Jim Schneider
+Senior Equity Analyst
+0:50:29
+
+And would you say that Rubin is a bigger, smaller or similar step up in terms of performance for capability perspective relative to what we saw at Blackwell? Thank you.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:50:42
+
+Yeah. Thanks. Ruben. Ruben Ruben, we're on a we're on an annual cycle. And the reason why we're on an annual cycle is because we can do so to accelerate the cost reduction and maximize the revenue generation for our customers.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:51:12
+
+When we increase the perf per watt, the token generation per amount of usage of energy, we are effectively driving the revenues of our customers. The perf per watt of Blackwell will be, for reasoning systems, an order of magnitude higher than Hopper. And so for the same amount of energy, and everybody's data center is energy limited by definition, for any data center that we using Blackwell, you'll be able to maximize your revenues compared to anything we've done in the past, compared to anything in the world today. And because the perf per dollar, the performance is so good that the perf per dollar invested in the in the capital, would also allow you to improve your gross margins. To the extent that we have great ideas for every single generation, we could improve their the revenue generation, improve the AI capability, improve the margins of our customers by releasing new architectures.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:52:21
+
+And so we advise our our partners, our customers to to pace themselves and to build these data centers on an annual rhythm. And Ruben is gonna is going to have a whole bunch of new ideas. I paused for a second because, you know, I've got plenty of time between now and a year from now to tell you about all the breakthroughs that Ruben's are gonna bring. And but we Rubens has a lot of great ideas. I'm anxious to tell you, but I can't right now.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:52:52
+
+And I'll save it for for for GTC, to tell you more more and more about it. But, nonetheless, for the next year, we're ramping really hard into now Grace Blackwell, g b 200, and then now Blackwell Ultra, b 300. We're ramping really hard into data centers. This this this year is obviously a record breaking year. I expect next year to be a record breaking year.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:53:19
+
+And while we continue to increase, the performance of, of AI capabilities as we race towards artificial superintelligence on the one hand, and continue to increase the revenue generation capabilities of our hyperscalers on the other hand.
+
+Operator
+0:53:43
+
+Your final question comes from Timothy Arcuri with UBS. Your line is open.
+
+Timothy Arcuri
+Managing Director
+0:53:51
+
+Thanks a lot. Jensen, I wanted to ask you just answer the question you threw at a number, you said 50% CAGR for the AI market. So I'm wondering how much visibility that you have into next year. Is that kind of a reasonable bogey in terms of how much your data center revenue should grow next year? I would think you'll grow at least in line with that CAGR.
+
+Timothy Arcuri
+Managing Director
+0:54:10
+
+And maybe are there any puts and takes to that? Thanks.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:54:15
+
+Well, I think the the best way to look at it is is we we have we have reasonable forecasts from from our large customers for next year. A very, very significant forecast. And we still have a lot of businesses that we're still winning and a lot of start ups that are still being created. Don't forget that the number of start ups for AI native startups was a 100,000,000,000 was funded last year. This year, the year is not even over yet.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:54:47
+
+It's a 180,000,000,000 funded. If you look at look at AI native, the top AI native startups that are generating revenues, last year was $2,000,000,000. This year is $20,000,000,000. Next year, being 10 times higher than this year is not inconceivable. And the open source models is now opening up large enterprises, SaaS companies, industrial companies, robotics companies to now join the AI revolution, another source of growth.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:55:26
+
+And, you know, whether whether it's AI natives or enterprise SaaS or industrial AI or startups, we're just seeing just enormous amount of, interest in AI and demand for AI. Right now, the buzz is, I'm sure all of you know about the buzz out there. The buzz is everything's sold out. H one Hers sold out. H two hundreds are sold out.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:55:52
+
+Large CSPs are coming out renting capacity from other CSPs. And so the the, AI native startups were really scrambling to get capacity so that they could train their reasoning models. And so the demand is really, really high. But the long term long term outlook between where we are today, CapEx has doubled in two years. It is now running about $600,000,000,000 a year just in the large hyperscalers.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:56:25
+
+You know, for us to grow into that $600,000,000,000 a year, representing a significant part of that CapEx isn't unreasonable. And so I think I think the the next several years, surely through the through the through the decade, we see just a really fast growing, really significant growth opportunities ahead. Let me conclude with this. Blackwell is the next generation AI platform the world's been waiting for. It delivers an ex exceptional generational leap.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:57:01
+
+NVIDIA's NVLink 72 rack scale computing is revolutionary, arriving just in time as reasoning AI models drive order of magnitude increases in training and inference performance requirement. Blackwell Ultra is ramping at full speed, and the demand is extraordinary. Our next platform, Rubin, is already in fab. We have six new chips that represents the Rubin platform. They have all taped out to TSMC.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:57:31
+
+Rubin will be our third generation MB LINK RackScale AI supercomputer, and so we expect to have a much more mature and fully scaled up supply chain. Blackwell and Rubin AI factory platforms will be scaling into the 3 to $4,000,000,000,000 global AI factory build out through the end of the decade. Customers are building ever greater scale AI factories from thousands of hopper GPUs in tens of megawatt data centers to now hundreds of thousands of Blackwells in 100 megawatt facilities. And soon, we'll be building millions of g millions of Rubin GPU platforms powering multi gigawatt, multisite AI super factories. With each generation, demand only grows.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:58:32
+
+One shot chatbots have evolved into reasoning, agentic AI that research, plan, and use tools, driving orders of magnitude jump in compute for both training and inference. Agentic AI is reaching maturity and has opened the enterprise market to build domain and company specific AI agents for enterprise workflows, products, services. The age of physical AI has arrived, unlocking entirely new industries in robotics, industrial automation. Every industry and every industrial company will need to build two factories, one to build the machines and another to build their robotic AI. This quarter, NVIDIA reached record revenues and an extraordinary milestone in our journey.
+
+Jensen Huang
+Founder, President, CEO & Director
+0:59:27
+
+The opportunity ahead is immense. A new industrial revolution has started. The AI race is on. Thanks for joining us today, and I look forward to addressing you next week, next earnings call. Thank you.
+
+Operator
+0:59:44
+
+This concludes today's conference call. You may now disconnect.

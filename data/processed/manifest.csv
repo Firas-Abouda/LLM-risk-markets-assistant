@@ -1,0 +1,7 @@
+ticker,source,period_label,quarter,section,filename,chars,processed_path,ingested_at
+JPM,10K,CY2025,,RiskFactors,JPM_10K_CY2025_RiskFactors.txt,135638,data\processed\JPM_10K_CY2025_RiskFactors.txt,2025-09-24T06:48:28Z
+JPM,EarningsCall,CY2025,Q2,,JPM_EarningsCall_CY2025_Q2.txt,69386,data\processed\JPM_EarningsCall_CY2025_Q2.txt,2025-09-24T06:48:28Z
+MSFT,10K,FY2025,,RiskFactors,MSFT_10K_FY2025_RiskFactors.txt,69019,data\processed\MSFT_10K_FY2025_RiskFactors.txt,2025-09-24T06:48:28Z
+MSFT,EarningsCall,FY2025,Q4,,MSFT_EarningsCall_FY2025_Q4.txt,28910,data\processed\MSFT_EarningsCall_FY2025_Q4.txt,2025-09-24T06:48:28Z
+NVDA,10K,FY2025,,RiskFactors,NVDA_10K_FY2025_RiskFactors.txt,110740,data\processed\NVDA_10K_FY2025_RiskFactors.txt,2025-09-24T06:48:28Z
+NVDA,EarningsCall,FY2026,Q2,,NVDA_EarningsCall_FY2026_Q2.txt,50428,data\processed\NVDA_EarningsCall_FY2026_Q2.txt,2025-09-24T06:48:28Z
