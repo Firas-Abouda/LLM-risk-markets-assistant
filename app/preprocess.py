@@ -79,6 +79,10 @@ def _normalize_unicode(s: str) -> str:
             out_chars.append(ch)
             continue
 
+        if ch == "\u2212":  # Unicode MINUS SIGN (U+2212)
+            out_chars.append("-")
+            continue
+
         cat = unicodedata.category(ch)
 
         # all Unicode separators -> plain space
